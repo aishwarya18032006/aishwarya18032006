@@ -1,51 +1,48 @@
-<h1 align="center">Hey 👋, I'm AISHWARYA </h1>
+<h1 align="center">Hey 👋, I'm AISHWARYA</h1>
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(Web+%26+Mobile);AI+%26+ML+Enthusiast;IoT+Explorer;Competitive+Programmer"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+(Web+%26+Mobile);AI+%26+ML+Enthusiast;IoT+Explorer;Competitive+Programmer;Lifelong+Learner"
     alt="Typing SVG"
   />
 </p>
 
 <p align="center">
-  Building scalable applications • Solving problems • Learning continuously
+  🚀 Building scalable applications • 🧠 Solving problems • 🌱 Learning continuously
 </p>
 
 <p align="center">
-  <span style="display:inline-block;width:140px;border-top:2px solid #2f3542;"></span>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=2"/>
 </p>
 
+---
 
+## 👩‍💻 ABOUT ME
 
+I’m **Aishwarya**, a passionate **Computer Science student** who loves building modern, scalable, and impactful software solutions.
 
- 👩‍💻 ABOUT ME
+💡 My primary interests include:
+- **Full Stack Development (Web & Mobile)**
+- **Artificial Intelligence & Machine Learning**
+- **Internet of Things (IoT)**
 
-I’m Divyasri, a Computer Science student passionate about building modern, scalable, and impactful software solutions.
+⚡ I enjoy working across the **entire development lifecycle** — from crafting intuitive UIs to designing efficient backend systems.
 
-My core interests include **Full Stack Development (Web & Mobile)**, **Artificial Intelligence & Machine Learning**, and **Internet of Things (IoT)**. I enjoy working across the complete development lifecycle — from designing intuitive user interfaces to implementing efficient backend systems.
+🏆 I’m also an active **Competitive Programmer**, consistently sharpening my problem-solving skills on platforms like **LeetCode** and **CodeChef**.
 
-I’m also an active **Competitive Programmer**, continuously strengthening my problem-solving and algorithmic thinking through platforms like **LeetCode** and **CodeChef**.
+🌱 Always curious, always learning — striving to grow into a skilled and impactful software engineer.
 
-I’m continuously learning new technologies, exploring innovative ideas, and strengthening my technical foundation to grow as a professional software engineer.
+---
 
-<p align="center">
-  <span style="display:inline-block;width:120px;border-top:2px solid #2f3542;"></span>
-</p>
+## 🧰 TECH STACK
 
-## 🧰 Languages & Tools
-
-<p align="center">
-  <span style="display:inline-block;width:120px;border-top:2px solid #2f3542;"></span>
-</p>
-
-
-### 💻 Programming
+### 💻 Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
 </p>
 
 ---
@@ -82,122 +79,72 @@ I’m continuously learning new technologies, exploring innovative ideas, and st
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
-<p align="center">
-  <span style="display:inline-block;width:120px;border-top:2px solid #2f3542;"></span>
-</p>
+---
 
-
-
-## 🔗 Connect With Me
+## 🔗 CONNECT WITH ME
 
 <p align="center">
-  <span style="display:inline-block;width:120px;border-top:2px solid #2f3542;"></span>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/divyasri-m-3036362a5/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://leetcode.com/u/W45JOy9Qxo/" target="_blank">
+  <a href="https://leetcode.com/u/kit27cse04/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 
-  <a href="https://www.codechef.com/users/kit27cse19" target="_blank">
+  <a href="https://www.codechef.com/users/kit27cse04" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
 
-  <a href="https://codeforces.com/profile/Divyasrim19" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  </a>
-
-  <a href="mailto:divyasri.m018@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://codolio.com/profile/Aishwarya18" target="_blank">
+    <img src="https://img.shields.io/badge/Codolio-000000?style=for-the-badge&logo=code&logoColor=white"/>
   </a>
 </p>
 
-<p align="center">
-  <span style="display:inline-block;width:120px;border-top:2px solid #2f3542;"></span>
-</p>
+---
 
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <span style="display:inline-block;width:120px;border-top:2px solid #2f3542;"></span>
-</p>
+## 📊 GITHUB STATS
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=divyasri-m18&show_icons=true&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api?username=Aishwarya18&show_icons=true&theme=tokyonight&hide_border=true"
     height="165"
   />
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=divyasri-m18&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-streak-stats.herokuapp.com?user=Aishwarya18&theme=tokyonight&hide_border=true"
     height="165"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyasri-m18&layout=compact&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aishwarya18&layout=compact&theme=tokyonight&hide_border=true"
     height="150"
   />
 </p>
 
+---
+
+## 🧠 LEETCODE STATS
+
 <p align="center">
-  <span style="display:inline-block;width:120px;border-top:2px solid #2f3542;"></span>
+  <img src="https://leetcard.jacoblin.cool/kit27cse04?theme=dark&font=Karma&ext=heatmap"/>
 </p>
 
+---
 
-
-## 🧠 LeetCode Stats
-
-<p align="center">
-  <span style="display:inline-block;width:120px;border-top:2px solid #2f3542;"></span>
-</p>
+## 🍽️ CODECHEF PROFILE
 
 <p align="center">
-  
-![LeetCode Stats](https://leetcard.jacoblin.cool/W45JOy9Qxo?theme=dark&font=Karma&ext=heatmap)
-
-</p>
-
-<p align="center">
-  <span style="display:inline-block;width:120px;border-top:2px solid #2f3542;"></span>
-</p>
-
-
-
-## 🍽️ CodeChef Stats
-
-<p align="center">
-  <span style="display:inline-block;width:120px;border-top:2px solid #2f3542;"></span>
-</p>
-
-<p align="center">
-  <a href="https://www.codechef.com/users/kit27cse19" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-kit27cse19-brown?style=for-the-badge&logo=codechef&logoColor=white"/>
+  <a href="https://www.codechef.com/users/kit27cse04" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-kit27cse04-brown?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
 </p>
 
-<p align="center">
-  <span style="display:inline-block;width:120px;border-top:2px solid #2f3542;"></span>
-</p>
+---
 
-
-
-## 🔥 GitHub Contributions
+## 🔥 CONTRIBUTIONS & GROWTH
 
 <p align="center">
-  <span style="display:inline-block;width:120px;border-top:2px solid #2f3542;"></span>
+  🚀 Actively contributing • 📈 Consistently improving • 💻 Learning by building
 </p>
 
 <p align="center">
-  Actively contributing to repositories and consistently improving through hands-on coding.
-</p>
-
-<p align="center">
-  <span style="display:inline-block;width:120px;border-top:2px solid #2f3542;"></span>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=90&section=footer"/>
 </p>
