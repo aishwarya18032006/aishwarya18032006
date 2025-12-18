@@ -20,10 +20,10 @@
 
 I’m a **Computer Science student** passionate about building **modern, scalable, and efficient applications**.
 
-My interests include **Full Stack Development**, **Artificial Intelligence & Machine Learning**, and **Internet of Things (IoT)**.  
-I enjoy working across the full development cycle — from **UI design** to **backend systems**.
+My core interests include **Full Stack Development**, **Artificial Intelligence & Machine Learning**, and **Internet of Things (IoT)**.  
+I enjoy working across the complete development cycle — from **frontend UI design** to **backend systems**.
 
-I actively practice **competitive programming**, strengthening my **problem-solving and algorithmic thinking**.
+I actively practice **competitive programming**, which strengthens my **problem-solving skills and algorithmic thinking**.
 
 ---
 
@@ -76,11 +76,11 @@ I actively practice **competitive programming**, strengthening my **problem-solv
 
 ---
 
-### 🍽️ CodeChef
+### 📊 Codolio
 <p align="center">
   <img 
-    src="https://codechef-stats-api.herokuapp.com/kit27cse04"
-    alt="CodeChef Stats"
+    src="https://codolio-card.vercel.app/api?username=Aishwarya18&theme=dark"
+    alt="Codolio Stats"
   />
 </p>
 
@@ -108,11 +108,19 @@ I actively practice **competitive programming**, strengthening my **problem-solv
 
 ---
 
-## 🔗 Coding Profiles
+## 🌐 Connect With Me
 
-- 🔥 LeetCode → https://leetcode.com/u/kit27cse04/
-- 🍽️ CodeChef → https://www.codechef.com/users/kit27cse04
-- 📊 Codolio → https://codolio.com/profile/Aishwarya18
+<p align="center">
+  <a href="https://leetcode.com/u/kit27cse04/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+  </a>
+  <a href="https://codolio.com/profile/Aishwarya18" target="_blank">
+    <img src="https://img.shields.io/badge/Codolio-000000?style=for-the-badge&logo=code&logoColor=white"/>
+  </a>
+  <a href="https://www.codechef.com/users/kit27cse04" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=5B4638"/>
+  </a>
+</p>
 
 ---
 
